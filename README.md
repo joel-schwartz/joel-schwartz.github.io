@@ -1,1 +1,1 @@
-# joel-schwartz.github.io
+# joel-schwartz-com
