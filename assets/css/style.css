@@ -292,6 +292,8 @@ section { margin: 20px 0; padding: 0; }
 
 ul { list-style-image: none; list-style-type: none; padding: 0; margin: 0; }
 
+.year { color: #b6b6b6; font-size: 12pt; }
+
 .page { max-width: 650px; margin: 0 auto; }
 
 #page-header { padding: 1em 0 0; text-align: center; }
@@ -311,7 +313,7 @@ ul { list-style-image: none; list-style-type: none; padding: 0; margin: 0; }
 #page-footer p { margin: 15px 0; }
 
 .document { list-style-image: none; list-style-type: none; padding: 0; margin: 0; padding: 0 0 2em; margin-block-start: 0; margin-block-end: 0; }
-.document .title { margin: 0 0 3px; font-size: 18px; }
+.document .title { color: #ffeb9b; font-size: 18px; margin: 0 0 3px; }
 .document .role { color: #b6b6b6; margin: 0 0 3px; }
 .document .synopsis { -webkit-hyphens: auto; -ms-hyphens: auto; hyphens: auto; margin-block-start: 0; margin-block-end: 0; }
 .document ul.details { margin: 0; padding: 0 2em; }
